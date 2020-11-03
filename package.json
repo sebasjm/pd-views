@@ -1,0 +1,47 @@
+{
+  "name": "pd-views",
+  "version": "1.0.0",
+  "description": "libreria de vistas y comportamientos visuales",
+  "scripts": {
+    "start": "start-storybook -p 9009 -s ./.storybook/public",
+    "start-https": "start-storybook -p 9009 -s ./.storybook/public --https --ssl-cert pe/example.crt --ssl-key pe/example.key",
+    "build": "tsc && build-storybook -o ./public --quiet",
+    "test": " tsc && jest",
+    "publish-lib": "tsc && cp package.json dist/ && npm publish dist/",
+    "lint": "eslint src --ext .js,-jsx",
+    "lint:fix": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+  },
+  "dependencies": {
+    "@babel/core": "7.11.4",
+    "@babel/plugin-proposal-optional-chaining": "7.11.0",
+    "@storybook/addon-knobs": "6.0.16",
+    "@storybook/addon-storyshots": "6.0.16",
+    "date-fns": "2.15.0",
+    "libphonenumber-js": "1.8.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-hook-form": "6.4.1",
+    "react-scripts": "3.4.3",
+    "styled-components": "5.1.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-a11y": "6.0.16",
+    "@storybook/addon-actions": "6.0.16",
+    "@storybook/addon-console": "1.2.1",
+    "@storybook/addon-links": "6.0.16",
+    "@storybook/addon-notes": "5.3.19",
+    "@storybook/addon-viewport": "6.0.16",
+    "@storybook/addons": "6.0.16",
+    "@storybook/preset-create-react-app": "3.1.4",
+    "@storybook/preset-typescript": "3.0.0",
+    "@storybook/react": "6.0.16",
+    "@types/jest": "26.0.10",
+    "@types/node": "12.0.0",
+    "@types/react": "16.9.46",
+    "@types/react-dom": "16.9.0",
+    "@types/storybook__addon-storyshots": "5.3.1",
+    "@types/styled-components": "5.1.2",
+    "babel-plugin-styled-components": "1.11.1",
+    "typescript": "4.0.5"
+  }
+}
