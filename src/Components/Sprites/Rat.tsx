@@ -6,6 +6,7 @@ import {Animation, Image} from '../../styles'
 const config = {
   width: 16,
   height: 15,
+  size: 256,
   image
 }
 
