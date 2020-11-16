@@ -1,0 +1,3106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Sprites/Albino Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Albino Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Albino Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Albino Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Albino Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bat Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bat Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bat Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bat Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bat Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bee Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bee Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bee Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bee Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Bee Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Blacksmith Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Blacksmith Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Blacksmith Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Blacksmith Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Blacksmith Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Brute Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Brute Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Brute Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Brute Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Brute Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/CausticSlime Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/CausticSlime Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/CausticSlime Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/CausticSlime Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/CausticSlime Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Char Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Char Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Char Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Char Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Char Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Crab Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Crab Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Crab Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Crab Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Crab Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM100 Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM100 Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM100 Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM100 Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM100 Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM200 Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM200 Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM200 Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM200 Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM200 Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM201 Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM201 Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM201 Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM201 Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DM201 Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DN300 Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DN300 Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DN300 Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DN300 Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DN300 Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DiscardedItem Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DiscardedItem Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DiscardedItem Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DiscardedItem Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/DiscardedItem Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/EarthGuardian Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/EarthGuardian Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/EarthGuardian Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/EarthGuardian Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/EarthGuardian Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Elemental Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Elemental Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Elemental Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Elemental Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Elemental Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Eye Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Eye Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Eye Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Eye Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Eye Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/FeitdRat Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/FeitdRat Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/FeitdRat Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/FeitdRat Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/FeitdRat Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Fist Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Fist Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Fist Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Fist Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Fist Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghost Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghost Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghost Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghost Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghost Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghoul Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghoul Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghoul Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghoul Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ghoul Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Gnoll Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Gnoll Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Gnoll Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Gnoll Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Gnoll Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GnollTrickerster Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GnollTrickerster Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GnollTrickerster Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GnollTrickerster Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GnollTrickerster Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Golem Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Golem Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Golem Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Golem Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Golem Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Goo Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Goo Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Goo Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Goo Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Goo Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GreatCrab Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GreatCrab Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GreatCrab Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GreatCrab Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/GreatCrab Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Guard Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Guard Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Guard Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Guard Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Guard Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Hero Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Hero Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Hero Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Hero Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Hero Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Imp Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Imp Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Imp Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Imp Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Imp Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Item Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Item Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Item Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Item Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Item Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/ItemSheet Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/ItemSheet Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/ItemSheet Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/ItemSheet Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/ItemSheet Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/King Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/King Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/King Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/King Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/King Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Larva Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Larva Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Larva Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Larva Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Larva Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Lotus Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Lotus Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Lotus Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Lotus Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Lotus Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mimic Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mimic Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mimic Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mimic Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mimic Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mirror Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mirror Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mirror Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mirror Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mirror Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Missile Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Missile Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Missile Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Missile Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Missile Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mob Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mob Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mob Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mob Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Mob Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Monk Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Monk Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Monk Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Monk Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Monk Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Nercromancer Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Nercromancer Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Nercromancer Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Nercromancer Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Nercromancer Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/NewbornElemental Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/NewbornElemental Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/NewbornElemental Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/NewbornElemental Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/NewbornElemental Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Piranha Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Piranha Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Piranha Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Piranha Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Piranha Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Prismatic Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Prismatic Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Prismatic Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Prismatic Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Prismatic Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Pylon Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Pylon Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Pylon Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Pylon Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Pylon Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Rat Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 ghLSZm"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Rat Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 emPXoL"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Rat Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 djOBwL"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Rat Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 bDfkqT"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Rat Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RatKing Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RatKing Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RatKing Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RatKing Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RatKing Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ripper Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ripper Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ripper Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ripper Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ripper Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RotHeart Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RotHeart Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RotHeart Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RotHeart Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/RotHeart Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Scorpio Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Scorpio Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Scorpio Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Scorpio Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Scorpio Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Senior Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Senior Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Senior Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Senior Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Senior Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shaman Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shaman Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shaman Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shaman Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shaman Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Sheep Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Sheep Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Sheep Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Sheep Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Sheep Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shielded Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shielded Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shielded Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shielded Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shielded Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shopkeeper Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shopkeeper Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shopkeeper Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shopkeeper Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Shopkeeper Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Skeleton Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Skeleton Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Skeleton Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Skeleton Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Skeleton Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Slime Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Slime Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Slime Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Slime Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Slime Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Snake Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Snake Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Snake Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Snake Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Snake Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spawner Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spawner Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spawner Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spawner Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spawner Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spinner Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spinner Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spinner Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spinner Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Spinner Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Statue Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Statue Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Statue Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Statue Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Statue Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Succubus Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Succubus Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Succubus Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Succubus Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Succubus Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Swarm Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Swarm Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Swarm Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Swarm Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Swarm Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Tengu Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Tengu Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Tengu Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Tengu Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Tengu Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Thief Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 jJhsjT"
+  height={13}
+  size={256}
+  width={12}
+/>
+`;
+
+exports[`Storyshots Sprites/Thief Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 jsfjtC"
+  height={13}
+  size={256}
+  width={12}
+/>
+`;
+
+exports[`Storyshots Sprites/Thief Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 gdvroP"
+  height={13}
+  size={256}
+  width={12}
+/>
+`;
+
+exports[`Storyshots Sprites/Thief Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 bhGZNK"
+  height={13}
+  size={256}
+  width={12}
+/>
+`;
+
+exports[`Storyshots Sprites/Thief Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 creFsq"
+  height={13}
+  size={256}
+  width={12}
+/>
+`;
+
+exports[`Storyshots Sprites/Undead Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Undead Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Undead Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Undead Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Undead Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wandmaker Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wandmaker Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wandmaker Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wandmaker Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wandmaker Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ward Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ward Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ward Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ward Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Ward Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Warlock Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Warlock Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Warlock Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Warlock Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Warlock Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wraith Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wraith Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wraith Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wraith Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Wraith Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Yog Attack 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Yog Die 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Yog Idle 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Yog Run 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 styles__Animation-sc-4l52t3-1 JvBky"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
+
+exports[`Storyshots Sprites/Yog Static 1`] = `
+<div
+  className="styles__Image-sc-4l52t3-0 kzxVbg"
+  height={15}
+  size={256}
+  width={16}
+/>
+`;
